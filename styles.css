@@ -1,0 +1,32 @@
+body{
+    background-color: lightslategrey;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.formWrapper{
+    background-color: cadetblue;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+#giphyContainer{
+    padding: 20px;
+    background-color: cadetblue;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+#giphyContainer div {
+    float:left;
+    padding: 15px;
+
+}
+img {
+    object-fit: scale-down;
+    
+}
