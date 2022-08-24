@@ -1,5 +1,7 @@
 # Giphy Party
 
+__Try it out at:__ https://dlmedeiro.github.io/Giphy-Party/
+
 __This application:__
 
 * Allows the user to search for a GIF by entering a search term.
